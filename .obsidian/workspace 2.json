@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "750b1d8139644ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d990704cc834fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eecc8cdde1e4b1e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "9.70.00 - Tech/9.75.03 - MicroRack/Pasted image 20221115201939.png"
+              }
+            }
+          },
+          {
+            "id": "e73193e5b7edf250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c77b529bf41dc12",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d5c60aa9275e66",
+        "type": "tabs",
+        "dimension": 75.54890219560878,
+        "children": [
+          {
+            "id": "6938bec25cb61e58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "961dea85dff89e15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "07e8294c17276dbd",
+        "type": "tabs",
+        "dimension": 24.451097804391217,
+        "children": [
+          {
+            "id": "4dc6f8f791080f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#na",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2906242930d2ca82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ac2593602c533af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.0124969482422
+  },
+  "right": {
+    "id": "4f1f5f2de7d5881d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e4eb9b34d39ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9739891831acbf08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7e8358b5048f10e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7edbe45183de3620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "345f551d5a448e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.md"
+              }
+            }
+          },
+          {
+            "id": "577b1f6e13c25ac9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "terminal:Open terminal": false,
+      "translate:Open translation view": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "e73193e5b7edf250",
+  "lastOpenFiles": [
+    "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.png",
+    "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/95b48073d5c68245e11301fa08aedfd.png",
+    "Datavault_Z_α/9.20.00 - Education/9.20.10 - 汉语学习/想笑又不敢笑.md",
+    "9.70.00 - Tech/9.75.03 - MicroRack/Pasted image 20221115201939.png",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_183749.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_183833.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_182452.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_182435.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_183745.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_182433.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_182339.jpg",
+    "9.70.00 - Tech/9.75.03 - MicroRack/20221115_182338.jpg",
+    "Datavault_Z_α/这么吊.md",
+    "Datavault_Z_α/口.md",
+    "Datavault_Z_α/书中有金屋，书中有颜如玉.md",
+    "Datavault_Z_α/Windows Subsystem for Android.md",
+    "Datavault_Z_α/Video.md",
+    "Datavault_Z_α/Untitled.md",
+    "Datavault_Z_α/Untitled.canvas",
+    "Datavault_Z_α/Untitled 1.md",
+    "Datavault_Z_α/Untitled 1.canvas",
+    "Datavault_Z_α/Spring Cleaning 2023.md",
+    "Datavault_Z_α/Shopping List -  Spring 23.md",
+    "Datavault_Z_α/scientific method of analysis.md",
+    "Datavault_Z_α/Reading List - Research.md",
+    "Datavault_Z_α/Reading List - Chinese.md",
+    "Datavault_Z_α/Quotations from Mao.md",
+    "Datavault_Z_α/Pre-Spring Quarter Goals.md",
+    "Datavault_Z_α/On Scientific Method of Analysis.md",
+    "Datavault_Z_α/On Liberalism - Mao.md",
+    "Datavault_Z_α/On contradiction.md",
+    "Datavault_Z_α/meeting with vanessa unti 2-10.md",
+    "Datavault_Z_α/funfunmandarin.md",
+    "Datavault_Z_α/FunFun 6.1 Dubbing.md",
+    "Datavault_Z_α/Fluent Forever.md",
+    "Datavault_Z_α/Ellis' Print Tuning Guide.md",
+    "Datavault_Z_α/Drawing 2023-06-17 19.31.36.excalidraw.md",
+    "Datavault_Z_α/Drawing 2023-05-10 11.12.02.excalidraw.md",
+    "Datavault_Z_α/media",
+    "Datavault_Z_α/Excalidraw/Library/universal-ui-kit.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/synths-and-fx.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/stick-people.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/some-handdrawn-signs.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/schematic-symbols.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/raspberrypi-zero.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/math-teacher-library.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/logic-gates.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Library/lo-fi-wireframing-kit.excalidrawlib",
+    "Datavault_Z_α/Excalidraw/Untitled.canvas",
+    "Datavault_Z_α/Excalidraw/Untitled 1.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "9.20.00 - Education/9.24.00 - Math/Calc2 Quiz 3 Study.canvas",
+    "9.00.00 - DataVault Meta/9.90.00 - Daily Notes/9.90.23 - 2023 Daily Notes/9.90.23.3/March 2023.canvas",
+    "9.00.00 - DataVault Meta/9.90.00 - Daily Notes/Untitled.canvas",
+    "Untitled 2.canvas"
+  ]
+}

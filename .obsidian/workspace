@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "750b1d8139644ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7d316c7ea080e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "93.00 - TTRPG/93.50 - HOMEBREW/Cyberdeck -- Idea Sheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c77b529bf41dc12",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e8294c17276dbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6938bec25cb61e58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dc6f8f791080f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2906242930d2ca82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "900a1929b01c0488",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "right": {
+    "id": "4f1f5f2de7d5881d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e4eb9b34d39ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9739891831acbf08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "93.00 - TTRPG/93.50 - HOMEBREW/Cyberdeck -- Idea Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e8358b5048f10e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "93.00 - TTRPG/93.50 - HOMEBREW/Cyberdeck -- Idea Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7edbe45183de3620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "345f551d5a448e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "93.00 - TTRPG/93.50 - HOMEBREW/Cyberdeck -- Idea Sheet.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cf7d316c7ea080e7",
+  "lastOpenFiles": [
+    "93.00 - TTRPG/93.50 - HOMEBREW/Humanity Overhaul.md",
+    "93.00 - TTRPG/93.50 - HOMEBREW/Cyberware Changes.md",
+    "93.00 - TTRPG/93.50 - HOMEBREW/Netrunning Overhaul.md",
+    "93.00 - TTRPG/93.50 - HOMEBREW/Cyberpunk Orange Homebrew.md",
+    "93.00 - TTRPG/93.50 - HOMEBREW/Armor Overhaul.md",
+    "92.00 - School/92.02 - CSC_143/AWT.md",
+    "92.00 - School/92.02 - CSC_143/92.02.1 - Week 1/Drawing 2022-09-27 11.07.48.excalidraw.md",
+    "92.00 - School/92.02 - CSC_143/92.02.1 - Week 1/Inheritance.md",
+    "92.00 - School/92.02 - CSC_143/92.02.1 - Week 1/Inheritence diagram.md",
+    "92.00 - School/92.03 - PHYS_221/Phys221_10-6.md"
+  ]
+}

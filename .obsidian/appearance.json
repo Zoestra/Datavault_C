@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "obsidian",
+    "Invert Image",
+    "hide tags in preview",
+    "obsidian-desmos"
+  ],
+  "translucency": true,
+  "interfaceFontFamily": "Hack",
+  "textFontFamily": "Hack",
+  "monospaceFontFamily": "Hack",
+  "theme": "obsidian",
+  "nativeMenus": false
+}

@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "0483025ca04afd07",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d9f7033cfb52d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e4bdea086de08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daniel Dumbrill.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69b6e1c55734cdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a681e7656eb8a6e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stealing DNA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0043cd1256a44d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daniel Dumbrill.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e86780ddeebf41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Video Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d42a694345a45116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Default Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f8e56ac1fcb3e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Video Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79151975d276bd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d22c8104043790",
+        "type": "tabs",
+        "dimension": 59.26724137931034,
+        "children": [
+          {
+            "id": "dce7cf9141a40d86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d36ad1642024d6f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "90fb017cc361b72b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cea0068e6b1eeff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GeopoliticalEconomyHour",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "045bedb9313c6ab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ded92b7db18697e6",
+        "type": "tabs",
+        "dimension": 40.73275862068966,
+        "children": [
+          {
+            "id": "cc3870abd6e08d8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "c3296fae6b06f035",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74a4dd4e277f637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4136f071a082c4c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daniel Dumbrill.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b973de6b232bf076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daniel Dumbrill.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea8fb190a777c333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daniel Dumbrill.md"
+              }
+            }
+          },
+          {
+            "id": "b9605588bf6fd1d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
+    }
+  },
+  "active": "57e4bdea086de08d",
+  "lastOpenFiles": [
+    "CPC Leader Books.md",
+    "Datavault_C",
+    "Daniel Dumbrill.md",
+    "Stealing DNA.md",
+    "Video - A Look inside China -  Is this the most Sovereign Country on Earth.md",
+    "Video - Do People in China Really Eat Dogs - A Lesson on Stereotypes and the Weaponization of Morality.md",
+    "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
+    "Video - The Myth of the Chinese Debt Trap in Africa.md",
+    "Xinjiang Resources.md",
+    "Templates/Video Template.md",
+    "Templates/Default Template.md",
+    "Harvey's Vlog 在中国.md",
+    "Video - Why China is STUPENDOUSLY Well Designed.md",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Templates",
+    "Vetting Pre-Questionnaire.md",
+    "RULES.md",
+    "Server Structure.md",
+    "Media/Vetting Pre-Questionnaire-1.png",
+    "Trio Meeting 3.9.23-1.png",
+    "Media",
+    "Pasted image 20230817145320.png",
+    "Pasted image 20230817145303.png",
+    "Exam 2 Notecard.md",
+    "Daily Notes/2023.08.17.md",
+    "Trig Identities.md",
+    "Trigonometric Substitution.md",
+    "trig sub figure 1.excalidraw.md",
+    "Taylor Polynomials.md",
+    "Media/Pursuit Curves Extra Credit-17.png",
+    "Media/Pursuit Curves Extra Credit-16.png",
+    "Media/Pursuit Curves Extra Credit-15.png",
+    "Media/Pursuit Curves Extra Credit-14.png",
+    "Media/Pursuit Curves Extra Credit-13.png",
+    "Media/Pursuit Curves Extra Credit-12.png",
+    "Untitled.canvas",
+    "PDFs/Pursuit Curves Extra Credit.pdf",
+    "James Stewart - Calculus_ Concepts and Contexts, 4th Edition   (2010, Cengage Learning) - libgen.lc.pdf",
+    "PDFs/PursuitCurves2022Update-MathematicaFocus_0.pdf",
+    "PursuitCurves2022Update-MathematicaFocus_0.pdf",
+    "School",
+    "Daily Notes",
+    "Excalidraw/Untitled.canvas",
+    "Excalidraw/Untitled 1.canvas",
+    "Exam2 Take Home.pdf",
+    "Datavault_ζ/Excalidraw/Untitled.canvas",
+    "Datavault_ζ/Excalidraw/Untitled 1.canvas",
+    "Datavault_ζ/Untitled.canvas",
+    "Datavault_ζ/Untitled 1.canvas",
+    "Neumann-Vault/Game Design/Relationship Chart.canvas",
+    "Datavault_Z_α/Untitled 1.canvas",
+    "Datavault_Z_α/9.00.00 - DataVault Meta/9.90.00 - Daily Notes/9.90.23 - 2023 Daily Notes/9.90.23.3/March 2023.canvas"
+  ]
+}

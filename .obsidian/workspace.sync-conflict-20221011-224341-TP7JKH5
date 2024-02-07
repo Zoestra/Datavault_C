@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "750b1d8139644ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07b81a6c76ff2a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "92.00 - School/92.02 - CSC_143/Swing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c77b529bf41dc12",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e8294c17276dbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6938bec25cb61e58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dc6f8f791080f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2906242930d2ca82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6519282464b0c8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "right": {
+    "id": "4f1f5f2de7d5881d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e4eb9b34d39ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9739891831acbf08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "92.00 - School/92.02 - CSC_143/Swing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e8358b5048f10e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "92.00 - School/92.02 - CSC_143/Swing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7edbe45183de3620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "345f551d5a448e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "92.00 - School/92.02 - CSC_143/Swing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e07b81a6c76ff2a0",
+  "lastOpenFiles": [
+    "92.00 - School/92.02 - CSC_143/Runnable.md",
+    "92.00 - School/92.02 - CSC_143/Swing.md",
+    "92.00 - School/92.02 - CSC_143/Shallow copy.md",
+    "92.00 - School/92.02 - CSC_143/Swing project example.excalidraw.md",
+    "92.00 - School/92.02 - CSC_143/SwingUtilities.invokeLater().md",
+    "92.00 - School/92.02 - CSC_143/Graphics.md",
+    "92.00 - School/92.02 - CSC_143/AWT.md",
+    "92.00 - School/92.02 - CSC_143/10_11_Class_Notes.md",
+    "92.00 - School/92.02 - CSC_143/Copying.md",
+    "92.00 - School/92.02 - CSC_143/Deep copy.md"
+  ]
+}
