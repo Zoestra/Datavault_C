@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Vault Roadmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "d42a694345a45116",
+            "id": "c6b3f981b63a3120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Default Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f8e56ac1fcb3e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Dalai Lama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Dalai Lama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Dalai Lama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Video Template.md"
+                "file": "Dalai Lama.md"
               }
             }
           },
@@ -211,14 +198,20 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "6f8e56ac1fcb3e9c",
+  "active": "c6b3f981b63a3120",
   "lastOpenFiles": [
+    "Dalai Lama-1.png",
+    "Vault Roadmap.md",
+    "Dalai Lama.md",
+    "Templates/Video Template.md",
+    "Templates/Default Template.md",
+    "140 a month.md",
+    "Untitled",
     "Xinjiang Resources.md",
     "Video - The Myth of the Chinese Debt Trap in Africa.md",
     "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
     "Video - Do People in China Really Eat Dogs - A Lesson on Stereotypes and the Weaponization of Morality.md",
     "Video - A Look inside China -  Is this the most Sovereign Country on Earth.md",
-    "Vault Roadmap.md",
     "Stealing DNA-2.png",
     "Stealing DNA-1.png",
     "Stealing DNA.md",
@@ -230,13 +223,9 @@
     "CPC Leader Books.md",
     "Cairo Conference of 1943.md",
     "BBC Filter.md",
-    "140 a month.md",
     "PDFs/China's Political Development after Tiananmen - Hong Shi.pdf",
     "PDFs/Stealing DNA-1.pdf",
-    "Templates/Video Template.md",
     "PDFs/nkrumah-neocolonialism.pdf",
-    "Templates/Default Template.md",
-    "Untitled",
     "Datavault_C",
     "Harvey's Vlog 在中国.md",
     "Video - Why China is STUPENDOUSLY Well Designed.md",
@@ -245,7 +234,6 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "Templates",
-    "Vetting Pre-Questionnaire.md",
     "Media/Vetting Pre-Questionnaire-1.png",
     "Trio Meeting 3.9.23-1.png",
     "Media",

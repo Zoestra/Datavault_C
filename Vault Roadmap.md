@@ -18,3 +18,4 @@ Modern Living Conditions
 Social Credit
 [[Outdoor Worker Rest Stops]]
 [[Language Suppression]]
+[[Dalai Lama]]
