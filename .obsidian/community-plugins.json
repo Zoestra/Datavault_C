@@ -29,5 +29,8 @@
   "table-editor-obsidian",
   "highlightr-plugin",
   "excalibrain",
-  "obsidian-extract-pdf-highlights"
+  "obsidian-extract-pdf-highlights",
+  "dataview",
+  "cm-chs-patch",
+  "obsidian-latex-suite"
 ]

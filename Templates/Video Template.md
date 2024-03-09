@@ -1,8 +1,5 @@
 # Video
 ![Video](link)
-   
-
-Message @Eliza
 # Channel
 # References
 # Transcript

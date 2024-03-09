@@ -97,8 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "879b3958092e5ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stealing DNA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "c3296fae6b06f035",
@@ -199,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daniel Dumbrill.md",
+                "file": "Stealing DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daniel Dumbrill.md",
+                "file": "Stealing DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daniel Dumbrill.md"
+                "file": "Stealing DNA.md"
               }
             }
           },
@@ -262,19 +277,32 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "57e4bdea086de08d",
+  "active": "879b3958092e5ba9",
   "lastOpenFiles": [
-    "CPC Leader Books.md",
-    "Datavault_C",
-    "Daniel Dumbrill.md",
+    "PDFs/Stealing DNA-1.pdf",
+    "Outdoor Worker Rest Stops.md",
+    "Language Suppression.md",
+    "Hong Kong 2019.md",
+    "Cairo Conference of 1943.md",
+    "Stealing DNA-2.png",
+    "BBC Filter.md",
+    "Stealing DNA-1.png",
+    "140 a month.md",
+    "Vault Roadmap.md",
+    "Notes from 1000Arrows.md",
+    "Templates/Video Template.md",
+    "PDFs/nkrumah-neocolonialism.pdf",
+    "Templates/Default Template.md",
     "Stealing DNA.md",
+    "Daniel Dumbrill.md",
+    "CPC Leader Books.md",
+    "Untitled",
+    "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
+    "Datavault_C",
     "Video - A Look inside China -  Is this the most Sovereign Country on Earth.md",
     "Video - Do People in China Really Eat Dogs - A Lesson on Stereotypes and the Weaponization of Morality.md",
-    "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
     "Video - The Myth of the Chinese Debt Trap in Africa.md",
     "Xinjiang Resources.md",
-    "Templates/Video Template.md",
-    "Templates/Default Template.md",
     "Harvey's Vlog 在中国.md",
     "Video - Why China is STUPENDOUSLY Well Designed.md",
     "Untitled 1.md",
@@ -283,35 +311,23 @@
     "Untitled 2.md",
     "Templates",
     "Vetting Pre-Questionnaire.md",
-    "RULES.md",
-    "Server Structure.md",
     "Media/Vetting Pre-Questionnaire-1.png",
     "Trio Meeting 3.9.23-1.png",
     "Media",
     "Pasted image 20230817145320.png",
     "Pasted image 20230817145303.png",
-    "Exam 2 Notecard.md",
-    "Daily Notes/2023.08.17.md",
-    "Trig Identities.md",
-    "Trigonometric Substitution.md",
-    "trig sub figure 1.excalidraw.md",
-    "Taylor Polynomials.md",
     "Media/Pursuit Curves Extra Credit-17.png",
     "Media/Pursuit Curves Extra Credit-16.png",
     "Media/Pursuit Curves Extra Credit-15.png",
     "Media/Pursuit Curves Extra Credit-14.png",
-    "Media/Pursuit Curves Extra Credit-13.png",
-    "Media/Pursuit Curves Extra Credit-12.png",
     "Untitled.canvas",
     "PDFs/Pursuit Curves Extra Credit.pdf",
     "James Stewart - Calculus_ Concepts and Contexts, 4th Edition   (2010, Cengage Learning) - libgen.lc.pdf",
     "PDFs/PursuitCurves2022Update-MathematicaFocus_0.pdf",
     "PursuitCurves2022Update-MathematicaFocus_0.pdf",
     "School",
-    "Daily Notes",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/Untitled 1.canvas",
-    "Exam2 Take Home.pdf",
     "Datavault_ζ/Excalidraw/Untitled.canvas",
     "Datavault_ζ/Excalidraw/Untitled 1.canvas",
     "Datavault_ζ/Untitled.canvas",
