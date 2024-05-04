@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f4e288babe238f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiananmen Square.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6b3f981b63a3120",
             "type": "leaf",
             "state": {
@@ -100,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ded92b7db18697e6",
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dalai Lama.md",
+                "file": "Tiananmen Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dalai Lama.md",
+                "file": "Tiananmen Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dalai Lama.md"
+                "file": "Tiananmen Square.md"
               }
             }
           },
@@ -199,11 +211,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "c6b3f981b63a3120",
+  "active": "f4e288babe238f1b",
   "lastOpenFiles": [
-    "Dalai Lama-1.png",
-    "Vault Roadmap.md",
     "Dalai Lama.md",
+    "Tiananmen Square.md",
+    "Vault Roadmap.md",
+    "Dalai Lama-1.png",
     "Templates/Video Template.md",
     "Templates/Default Template.md",
     "140 a month.md",
@@ -243,7 +256,6 @@
     "Media/Pursuit Curves Extra Credit-17.png",
     "Media/Pursuit Curves Extra Credit-16.png",
     "Media/Pursuit Curves Extra Credit-15.png",
-    "Media/Pursuit Curves Extra Credit-14.png",
     "Untitled.canvas",
     "PDFs/Pursuit Curves Extra Credit.pdf",
     "James Stewart - Calculus_ Concepts and Contexts, 4th Edition   (2010, Cengage Learning) - libgen.lc.pdf",

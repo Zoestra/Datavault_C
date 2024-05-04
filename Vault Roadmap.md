@@ -3,7 +3,7 @@
 
 
 Xinjiang and Uyghur Genocide
-Tiananmen Square
+[[Tiananmen Square]]
 1 country 2 systems
 Hong Kong National Security Bill
 Hong Kong Protests
