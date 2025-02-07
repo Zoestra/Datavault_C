@@ -15,9 +15,20 @@
               "state": {
                 "file": "Vault Roadmap.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault Roadmap"
             }
           },
           {
@@ -28,9 +39,20 @@
               "state": {
                 "file": "Tiananmen Square.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tiananmen Square"
             }
           },
           {
@@ -39,11 +61,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Then they will know honor and disgrace.md",
+                "file": "Stealing DNA.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stealing DNA"
             }
           },
           {
@@ -54,9 +87,20 @@
               "state": {
                 "file": "Dalai Lama.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dalai Lama"
             }
           }
         ],
@@ -80,8 +124,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
@@ -97,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -112,7 +163,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -122,12 +175,25 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba123bbcad220c8f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ded92b7db18697e6",
@@ -139,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -162,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault Roadmap.md",
+                "file": "Stealing DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +238,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stealing DNA"
             }
           },
           {
@@ -179,10 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault Roadmap.md",
+                "file": "Stealing DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stealing DNA"
             }
           },
           {
@@ -191,8 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault Roadmap.md"
-              }
+                "file": "Stealing DNA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stealing DNA"
             }
           },
           {
@@ -200,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -227,11 +306,14 @@
   },
   "active": "dce7cf9141a40d86",
   "lastOpenFiles": [
+    "Stealing DNA-2.png",
+    "Stealing DNA-1.png",
+    "Stealing DNA.md",
+    "Vault Roadmap.md",
     "Then they will know honor and disgrace-1.png",
     "Tiananmen Square.md",
     "Then they will know honor and disgrace.md",
     "Dalai Lama.md",
-    "Vault Roadmap.md",
     "Dalai Lama-1.png",
     "Templates/Video Template.md",
     "Templates/Default Template.md",
@@ -242,9 +324,6 @@
     "Video - Manufacturing Narratives - Lessons from the Hong Kong Protests with Nury Vittachi.md",
     "Video - Do People in China Really Eat Dogs - A Lesson on Stereotypes and the Weaponization of Morality.md",
     "Video - A Look inside China -  Is this the most Sovereign Country on Earth.md",
-    "Stealing DNA-2.png",
-    "Stealing DNA-1.png",
-    "Stealing DNA.md",
     "Outdoor Worker Rest Stops.md",
     "Notes from 1000Arrows.md",
     "Language Suppression.md",
@@ -269,7 +348,6 @@
     "Pasted image 20230817145303.png",
     "Media/Pursuit Curves Extra Credit-17.png",
     "Media/Pursuit Curves Extra Credit-16.png",
-    "Media/Pursuit Curves Extra Credit-15.png",
     "Untitled.canvas",
     "PDFs/Pursuit Curves Extra Credit.pdf",
     "James Stewart - Calculus_ Concepts and Contexts, 4th Edition   (2010, Cengage Learning) - libgen.lc.pdf",
