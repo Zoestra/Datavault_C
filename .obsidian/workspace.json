@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Response - xhs why do we hate china.md",
+                "file": "xhs why do we hate china.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Response - xhs why do we hate china"
+              "title": "Backlinks for xhs why do we hate china"
             }
           },
           {
@@ -231,12 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Response - xhs why do we hate china.md",
+                "file": "xhs why do we hate china.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Response - xhs why do we hate china"
+              "title": "Outgoing links from xhs why do we hate china"
             }
           },
           {
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Response - xhs why do we hate china.md",
+                "file": "xhs why do we hate china.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Response - xhs why do we hate china"
+              "title": "Outline of xhs why do we hate china"
             }
           },
           {
@@ -286,14 +286,14 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "0f05b3fe5bc662a0",
+  "active": "57e4de9cacc280a6",
   "lastOpenFiles": [
     "Response - xhs why do we hate china.md",
+    "xhs why do we hate china.md",
     "Dalai Lama.md",
     "Vault Roadmap.md",
     "Tiananmen Square.md",
     "Stealing DNA.md",
-    "xhs why do we hate china.md",
     "xhs why do we hate china-1.mp4",
     "Stealing DNA-2.png",
     "Stealing DNA-1.png",
